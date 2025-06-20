@@ -1066,8 +1066,8 @@ export default function SalaryJustificationReport() {
                   <div className="absolute top-1 right-1 w-6 h-6 bg-amber-100/50 rounded-full blur-sm"></div>
                   <div className="flex items-center gap-3 mb-2">
                     <div className="w-3 h-3 bg-blue-400 rounded-full"></div>
-                    <h5 className="font-semibold text-amber-900">Publicación IEEE</h5>
-                    <Badge className="bg-blue-100 text-blue-700 text-xs">Investigación</Badge>
+                    <h5 className="font-semibold text-amber-900">Reconocimiento Universidad Catolica Luis Amigo 2019</h5>
+                    <Badge className="bg-blue-100 text-blue-700 text-xs">Alma Mater</Badge>
                   </div>
                   <p className="text-xs text-amber-700 mb-2">
                     Reconocimiento Universidad Catolica Luis Amigo 
@@ -1083,7 +1083,7 @@ export default function SalaryJustificationReport() {
                     </a>
                   </p>
                 </div>
-                
+
 
                 <div className="p-4 bg-white rounded-lg border border-amber-200 shadow-sm relative overflow-hidden">
                   <div className="absolute top-1 right-1 w-6 h-6 bg-amber-100/50 rounded-full blur-sm"></div>
