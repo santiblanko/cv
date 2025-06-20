@@ -336,7 +336,7 @@ export default function SalaryJustificationReport() {
                       • <strong>Head of Engineering</strong> - Gestión técnica y comercial
                     </li>
                     <li>
-                      • <strong>Principal DevOps Engineer</strong> - Infraestructura + mentoría
+                      • <strong>DevOps Engineer</strong> - Infraestructura + mentoría
                     </li>
                   </ul>
                 </div>
