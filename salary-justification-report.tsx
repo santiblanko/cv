@@ -1120,7 +1120,7 @@ export default function SalaryJustificationReport() {
                   <div className="flex items-center gap-3 mb-2">
                     <div className="w-3 h-3 bg-blue-400 rounded-full"></div>
                     <h5 className="font-semibold text-amber-900">Geolcoe - Creador</h5>
-                    <Badge className="bg-blue-100 text-blue-700 text-xs">Fundador</Badge>
+                    <Badge className="bg-blue-100 text-blue-700 text-xs">Desarrollador Principal</Badge>
                   </div>
                   <p className="text-xs text-amber-700 mb-2">Plataforma geoespacial innovadora</p>
                   <p className="text-xs text-amber-600">Sistema GIS avanzado para análisis territorial y cartografía</p>
