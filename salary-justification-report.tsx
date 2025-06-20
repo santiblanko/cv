@@ -1207,21 +1207,6 @@ export default function SalaryJustificationReport() {
               </div>
             </div>
 
-            <div className="p-4 bg-gradient-to-r from-slate-50 to-gray-50 rounded-lg border border-slate-200">
-              <h5 className="font-semibold text-slate-900 mb-2">Información de Contacto</h5>
-              <div className="grid md:grid-cols-2 gap-4 text-sm text-slate-700">
-                <div>
-                  <p><strong>Santiago Blanco Vilchez</strong></p>
-                  <p>Senior DevOps Engineer & Technical Mentor</p>
-                  <p>Medellín, Colombia</p>
-                </div>
-                <div>
-                  <p className="font-mono">📞 Disponible bajo solicitud</p>
-                  <p className="font-mono">✉️ Disponible bajo solicitud</p>
-                  <p className="font-mono">🔗 GitHub: santiblanko</p>
-                </div>
-              </div>
-            </div>
           </CardContent>
         </Card>
 
