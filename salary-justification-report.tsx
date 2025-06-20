@@ -1238,7 +1238,7 @@ export default function SalaryJustificationReport() {
               <div className="text-3xl font-bold text-slate-900 font-mono tracking-wide bg-gradient-to-r from-amber-600 to-orange-600 bg-clip-text text-transparent">
                 SANTIAGO BLANCO
               </div>
-              <div className="text-sm text-slate-700 font-medium">Senior DevOps Engineer & Technical Mentor</div>
+              <div className="text-sm text-slate-700 font-medium">DevOps Engineer & Technical Mentor</div>
               <div className="text-xs text-slate-500 font-mono">
                 Clara.care Development Team | Infrastructure & Mentorship Lead
               </div>
