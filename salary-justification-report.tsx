@@ -1159,6 +1159,7 @@ export default function SalaryJustificationReport() {
                 <h5 className="font-semibold text-slate-900 mb-2">Jhon Fernando Escobar</h5>
                 <div className="space-y-1 text-sm text-slate-700">
                   <p>Ex Rector Politécnico</p>
+                  <p>Director de extension UDEA.</p>
                   <p>Ex Jefe Plan Departamental de Agua</p>
                   <p>Post Doctorado Ingeniería de Petróleos</p>
                   <p className="font-mono text-slate-600">📞 300 652 0029</p>
